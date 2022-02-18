@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class App {
+public class LessonOnLists {
     public static void main(String[] args) {
         /* The `E` is replaced by a type.
         ArrayList<E> identifier = new ArrayList<E>(); */
